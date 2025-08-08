@@ -1,4 +1,4 @@
-# 🎓 College Event Feedback Analysis Dashboard
+# 🎓 College Event Feedback Analysis In ML
 
 A modern, full-stack **Flask web application** that collects and analyzes feedback from college events using **sentiment analysis** and **interactive data visualizations**. Built with a clean UI and real-time data insights, this project helps institutions understand participant satisfaction and improve future events.
 
